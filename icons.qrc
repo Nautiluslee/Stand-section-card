@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>blackpoint.png</file>
+        <file>redpoint.png</file>
+        <file>informbkg.jpg</file>
+        <file>bkg1.png</file>
+        <file>bkg2.png</file>
+    </qresource>
+</RCC>
